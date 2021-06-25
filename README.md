@@ -1,7 +1,7 @@
 # my naming convention
 > 个人使用的命名规范
 
-# Directory & File
+## Directory & File
 > 文件夹(目录)和文件命名规范
 
 | Type | Format | Convention | Example |
@@ -12,7 +12,7 @@
 | Normal |`lower_with_under` | snake case | `test_examples` |
 | Files | `lower_with_under_num.suffix` | snake case | `my_file_01.txt` |
 
-# PyThon
+## PyThon
 | Type | Public | Internal | Convention | Example |
 | :--- | :--- | :--- | :--- | :--- |
 | Packages | `lower-with-hyphen` | | spinal case | `hexo-blog` |
