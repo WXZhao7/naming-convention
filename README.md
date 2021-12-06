@@ -1,5 +1,5 @@
 # my naming convention
-> 个人使用的命名规范
+> 个人使用的命名规范[适用]
 
 ## Directory & File
 > 文件夹(目录)和文件命名规范
